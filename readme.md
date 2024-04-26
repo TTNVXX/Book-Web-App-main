@@ -20,12 +20,12 @@
   </ol>
 </details>
 
-
 ## About The Project
 
 This web app was created to allow users to search for books they love to read.
 
 ** Key features of this project include:**
+
 ```
 
 Page Navigation - The ability to navigate between pages seamlessly.
@@ -35,37 +35,33 @@ Book Details - A clickable button that provides users with additional details ab
 
 ## Overview
 
-* [Repo Codes](https://github.com/ijayhub/Book-Web-App)
+- [Repo Codes](https://github.com/TTNVXX/Book-Web-App-main)
 
-* [Hosted Link](https://books-web-app.netlify.app/)
-
+- [Hosted Link]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-* [React](https://reactjs.org/)
+- [React](https://reactjs.org/)
 
-* [Tailwind css](https://tailwindcss.com/)
+- [Tailwind css](https://tailwindcss.com/)
 
-* [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+- [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 
-* [API](https://developers.google.com/books)
-
-
-
+- [API](https://developers.google.com/books)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Getting Started
 
-
 To get a local copy up and running follow these simple example steps:
+
 ## Available Script
 
 In the project directory, you can run:
 
- ### `npm run dev`
+### `npm run dev`
 
 Runs the app in the development mode.
 
@@ -78,7 +74,7 @@ You may also see any lint errors in the console.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Dependencies
+
 [npm react-router-dom@6](https://reactrouter.com/docs/en/v6/getting-started/installation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
