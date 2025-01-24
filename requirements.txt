@@ -27,7 +27,7 @@ coverage==7.3.2
 cyberdrop-dl==4.2.231
 cycler==0.12.1
 dill==0.3.7
-Django==5.0.4
+// Django==5.0.4
 djangorestframework-jwt==1.11.0
 fastapi==0.85.0
 filedate==3.0
